@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: p-89-261103
+
+# 임시 자격 증명을 사용할 때만 설정
+# AWS_SESSION_TOKEN=your-session-token
